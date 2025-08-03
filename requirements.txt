@@ -1,0 +1,8 @@
+fastbook
+pytorch
+transformers
+datasets
+matplotlib
+jupyter
+pandas
+numpy
